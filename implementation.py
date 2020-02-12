@@ -3,7 +3,7 @@ import cvxpy as cp, numpy as np, json, datetime
 
 # Load problem set data
 
-with open('../reformulating_MINLP_problem_for_CVXPY/data/data.json') as data:
+with open('../solving_MINLP_in_CVXPY/data.json') as data:
     data = json.load(data)
 
 # define variables
