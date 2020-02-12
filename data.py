@@ -19,6 +19,6 @@ data = {'price': rand(50,80,nprods,2),
 
 data['weight_threshold'] = {'C': 0.5 * data['facility_capacity']['C'],'D': [0.33 * data['facility_capacity']['D'], 0.66 * data['facility_capacity']['D']]}
 
-with open('/Users/peterstarszyk/Dropbox/github/reformulating_MINLP_problem_for_CVXPY/data/data.json', 'w') as dat:
+with open('../solving_MINLP_in_CVXPY/data.json', 'w') as dat:
     json.dump(data, dat)
 
