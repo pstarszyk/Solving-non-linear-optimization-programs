@@ -1,0 +1,6 @@
+numpy
+scipy
+cvxpy
+cvxopt
+json
+datetime
