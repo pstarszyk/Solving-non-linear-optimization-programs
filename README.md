@@ -22,3 +22,10 @@ pip install -r requirements.txt
 Please see the detailed example in `problem.pdf` with implementation in `implementation.py`. In order to use `GLPK_MI` solver, 
 cvxopt must be installed.
 
+For more detailed information on the CVXPY package, please refer to the documentation.
+
+```{r}
+Steven Diamond and Stephen Boyd, CVXPY: A Python-Embedded Modeling Language for Convex Optimization
+https://buildmedia.readthedocs.org/media/pdf/cvxpy/latest/cvxpy.pdf
+```
+
