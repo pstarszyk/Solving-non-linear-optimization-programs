@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 # Usage
 Please see the detailed example in `problem.pdf` with implementation in `implementation.py`. In order to use `GLPK_MI` solver, 
-cvxopt must be installed.
+`cvxopt` must be installed.
 
 For more detailed information on the CVXPY package, please refer to the documentation.
 
